@@ -1,0 +1,1 @@
+Rails component of the common consciousness project.  Web services, web interface and database are handled within.
